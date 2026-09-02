@@ -68,7 +68,7 @@ characters = {
     "Durin": {
         "fandom": "Genshin Impact",
         "weapon": "Sword",
-        "hair_colour": "White",
+        "hair_colour": "Purple",
         "gender": "Male",
         "extra": "Pyro"
     },
@@ -116,7 +116,7 @@ characters = {
     "Lisa": {
         "fandom": "Genshin Impact",
         "weapon": "Catalyst",
-        "hair_colour": "Purple",
+        "hair_colour": "Brown",
         "gender": "Female",
         "extra": "Electro"
     },
@@ -132,7 +132,7 @@ characters = {
     "Mika": {
         "fandom": "Genshin Impact",
         "weapon": "Polearm",
-        "hair_colour": "Light Blue",
+        "hair_colour": "Blonde",
         "gender": "Male",
         "extra": "Cryo"
     },
@@ -148,7 +148,7 @@ characters = {
     "Nicole": {
         "fandom": "Genshin Impact",
         "weapon": "Catalyst",
-        "hair_colour": "White",
+        "hair_colour": "Blonde",
         "gender": "Female",
         "extra": "Pyro"
     },
@@ -189,7 +189,7 @@ characters = {
     "Sucrose": {
         "fandom": "Genshin Impact",
         "weapon": "Catalyst",
-        "hair_colour": "Mint",
+        "hair_colour": "Mint Green",
         "gender": "Female",
         "extra": "Anemo"
     },
@@ -278,7 +278,7 @@ characters = {
     "Qiqi": {
         "fandom": "Genshin Impact",
         "weapon": "Sword",
-        "hair_colour": "White",
+        "hair_colour": "Light Purple",
         "gender": "Female",
         "extra": "Cryo"
     },
@@ -326,7 +326,7 @@ characters = {
     "Xinyan": {
         "fandom": "Genshin Impact",
         "weapon": "Claymore",
-        "hair_colour": "Black",
+        "hair_colour": "Dark Brown",
         "gender": "Female",
         "extra": "Pyro"
     },
@@ -415,7 +415,7 @@ characters = {
     "Kamisato Ayaka": {
         "fandom": "Genshin Impact",
         "weapon": "Sword",
-        "hair_colour": "White",
+        "hair_colour": "Light Blue",
         "gender": "Female",
         "extra": "Cryo"
     },
@@ -439,7 +439,7 @@ characters = {
     "Kujou Sara": {
         "fandom": "Genshin Impact",
         "weapon": "Bow",
-        "hair_colour": "Black",
+        "hair_colour": "Dark Purple",
         "gender": "Female",
         "extra": "Electro"
     },
@@ -447,7 +447,7 @@ characters = {
     "Kuki Shinobu": {
         "fandom": "Genshin Impact",
         "weapon": "Sword",
-        "hair_colour": "Purple",
+        "hair_colour": "Green",
         "gender": "Female",
         "extra": "Electro"
     },
@@ -471,7 +471,7 @@ characters = {
     "Sayu": {
         "fandom": "Genshin Impact",
         "weapon": "Claymore",
-        "hair_colour": "Gray",
+        "hair_colour": "Ash Blonde",
         "gender": "Female",
         "extra": "Anemo"
     },
@@ -479,7 +479,7 @@ characters = {
     "Shikanoin Heizou": {
         "fandom": "Genshin Impact",
         "weapon": "Catalyst",
-        "hair_colour": "Brown",
+        "hair_colour": "Burgundy",
         "gender": "Male",
         "extra": "Anemo"
     },
@@ -511,7 +511,7 @@ characters = {
     "Yumemizuki Mizuki": {
         "fandom": "Genshin Impact",
         "weapon": "Catalyst",
-        "hair_colour": "Pink",
+        "hair_colour": "Light Blue",
         "gender": "Female",
         "extra": "Anemo"
     },
@@ -560,7 +560,7 @@ characters = {
     "Dori": {
         "fandom": "Genshin Impact",
         "weapon": "Claymore",
-        "hair_colour": "Purple",
+        "hair_colour": "Pink",
         "gender": "Female",
         "extra": "Electro"
     },
@@ -608,7 +608,7 @@ characters = {
     "Sethos": {
         "fandom": "Genshin Impact",
         "weapon": "Bow",
-        "hair_colour": "White",
+        "hair_colour": "Dark Brown",
         "gender": "Male",
         "extra": "Electro"
     },
@@ -625,7 +625,7 @@ characters = {
     "Charlotte": {
         "fandom": "Genshin Impact",
         "weapon": "Catalyst",
-        "hair_colour": "Blonde",
+        "hair_colour": "Pink",
         "gender": "Female",
         "extra": "Cryo"
     },
@@ -641,7 +641,7 @@ characters = {
     "Clorinde": {
         "fandom": "Genshin Impact",
         "weapon": "Sword",
-        "hair_colour": "Dark Blue",
+        "hair_colour": "Purple",
         "gender": "Female",
         "extra": "Electro"
     },
@@ -665,7 +665,7 @@ characters = {
     "Freminet": {
         "fandom": "Genshin Impact",
         "weapon": "Claymore",
-        "hair_colour": "Light Blue",
+        "hair_colour": "Blonde",
         "gender": "Male",
         "extra": "Cryo"
     },
@@ -682,7 +682,7 @@ characters = {
     "Lynette": {
         "fandom": "Genshin Impact",
         "weapon": "Sword",
-        "hair_colour": "Gray",
+        "hair_colour": "Ash Blonde",
         "gender": "Female",
         "extra": "Anemo"
     },
@@ -690,7 +690,8 @@ characters = {
     "Lyney": {
         "fandom": "Genshin Impact",
         "weapon": "Bow",
-        "hair_colour": "White",
+        "hair_colour": "Ash Blonde
+        ",
         "gender": "Male",
         "extra": "Pyro"
     },
@@ -739,7 +740,7 @@ characters = {
     "Chasca": {
         "fandom": "Genshin Impact",
         "weapon": "Bow",
-        "hair_colour": "Black",
+        "hair_colour": "Burgundy",
         "gender": "Female",
         "extra": "Anemo"
     },
@@ -763,7 +764,7 @@ characters = {
     "Ifa": {
         "fandom": "Genshin Impact",
         "weapon": "Catalyst",
-        "hair_colour": "Black",
+        "hair_colour": "White",
         "gender": "Male",
         "extra": "Anemo"
     },
@@ -803,7 +804,7 @@ characters = {
     "Ororon": {
         "fandom": "Genshin Impact",
         "weapon": "Bow",
-        "hair_colour": "Gray",
+        "hair_colour": "Dark Blue",
         "gender": "Male",
         "extra": "Electro"
     },
@@ -811,7 +812,7 @@ characters = {
     "Varesa": {
         "fandom": "Genshin Impact",
         "weapon": "Catalyst",
-        "hair_colour": "Brown",
+        "hair_colour": "Pink",
         "gender": "Female",
         "extra": "Electro"
     },
@@ -869,7 +870,7 @@ characters = {
     "Lauma": {
         "fandom": "Genshin Impact",
         "weapon": "Catalyst",
-        "hair_colour": "White",
+        "hair_colour": "Purple",
         "gender": "Female",
         "extra": "Dendro"
     },
@@ -1046,7 +1047,7 @@ characters = {
 "Ichika Hoshino": {
     "fandom": "Project Sekai",
     "weapon": "Guitar / Vocal",
-    "hair_colour": "Black",
+    "hair_colour": "Dark Blue",
     "gender": "Female",
     "extra": "Leo/need"
 },
@@ -1054,7 +1055,7 @@ characters = {
 "Saki Tenma": {
     "fandom": "Project Sekai",
     "weapon": "Keyboard",
-    "hair_colour": "Pink",
+    "hair_colour": "Blonde",
     "gender": "Female",
     "extra": "Leo/need"
 },
@@ -1062,7 +1063,7 @@ characters = {
 "Honami Mochizuki": {
     "fandom": "Project Sekai",
     "weapon": "Drums",
-    "hair_colour": "Peach",
+    "hair_colour": "Brown",
     "gender": "Female",
     "extra": "Leo/need"
 },
@@ -1070,7 +1071,7 @@ characters = {
 "Shiho Hinomori": {
     "fandom": "Project Sekai",
     "weapon": "Bass",
-    "hair_colour": "Light Green",
+    "hair_colour": "Gray",
     "gender": "Female",
     "extra": "Leo/need"
 },
@@ -1103,7 +1104,7 @@ characters = {
 "Shizuku Hinomori": {
     "fandom": "Project Sekai",
     "weapon": "Vocalist",
-    "hair_colour": "Blue",
+    "hair_colour": "Light Blue",
     "gender": "Female",
     "extra": "MORE MORE JUMP!"
 },
@@ -1112,7 +1113,7 @@ characters = {
 "Kohane Azusawa": {
     "fandom": "Project Sekai",
     "weapon": "Vocalist",
-    "hair_colour": "Brown",
+    "hair_colour": "Blonde",
     "gender": "Female",
     "extra": "Vivid BAD SQUAD"
 },
@@ -1120,7 +1121,7 @@ characters = {
 "An Shiraishi": {
     "fandom": "Project Sekai",
     "weapon": "Vocalist",
-    "hair_colour": "Brown",
+    "hair_colour": "Dark Blue",
     "gender": "Female",
     "extra": "Vivid BAD SQUAD"
 },
@@ -1186,7 +1187,7 @@ characters = {
 "Mafuyu Asahina": {
     "fandom": "Project Sekai",
     "weapon": "Lyricist",
-    "hair_colour": "Dark Blue",
+    "hair_colour": "Purple",
     "gender": "Female",
     "extra": "N25"
 },
