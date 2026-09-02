@@ -690,8 +690,7 @@ characters = {
     "Lyney": {
         "fandom": "Genshin Impact",
         "weapon": "Bow",
-        "hair_colour": "Ash Blonde
-        ",
+        "hair_colour": "Ash Blonde",
         "gender": "Male",
         "extra": "Pyro"
     },
